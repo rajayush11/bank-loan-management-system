@@ -1,0 +1,7 @@
+button {
+  border-width: thick;
+}
+
+button:hover {
+  background-color: yellow;
+}

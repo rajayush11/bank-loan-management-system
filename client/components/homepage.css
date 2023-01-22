@@ -1,0 +1,82 @@
+#carouselExampleControls {
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.image {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100vh;
+
+  color: white;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#features {
+  padding: 6%;
+  background-color: inherit;
+  position: relative;
+}
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover {
+  color: #ff4c68;
+}
+
+.fas {
+  padding-bottom: 10%;
+  color: #4f344b;
+}
+.service {
+  background: inherit;
+  padding-top: 30px;
+  padding-bottom: 90px;
+}
+.service-box {
+  background: rgb(50 50 50);
+  color: black;
+}
+.title {
+  padding-left: 220px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+.service .service-box {
+  padding: 30px 20px;
+  box-shadow: #21ba45 0px 0px 19px 0px;
+  margin-bottom: 30px;
+  text-align: center;
+  color: #fff;
+}
+
+.service .service-box i img {
+  height: 150px;
+}
+
+.service .service-box h3 {
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 10px;
+  color: white;
+  padding-right: 80px;
+}
+.second {
+  width: 210px;
+}
+
+.service .service-box p {
+  color: white;
+  font-size: 16px;
+  line-height: 20px;
+}
